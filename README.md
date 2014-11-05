@@ -1,7 +1,7 @@
 Homework3
 =========
 
-To see this page please visit: http://cdracars.github.io/Homework2
+To see this page please visit: http://cdracars.github.io/Homework3
 
 To setup project on Cloud9 run the following:
 --------------------
